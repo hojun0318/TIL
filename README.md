@@ -80,7 +80,8 @@ GUI는 CLI에 비해 사용하기 쉽지만 단계가 많고 컴퓨터의 성능
 
 ![mark](https://user-images.githubusercontent.com/104968672/179149968-6c8f8bab-ccd7-4180-a7e3-64744dd799bd.jpg)
 
-마크다운(Markdown) :
+### 마크다운(Markdown)
+
 텍스트 기반의 가벼운 마크업(markup) 언어
 문서의 구조와 내용을 같이 쉽고 빠르고 적고자 탄생
 
@@ -102,7 +103,7 @@ Github 문서의 시작과 끝!
 - 대부분의 웹 에디터에서 지원(각종 블로그 사이트 등)
 - Jupyter Notebook, Notion 등
 
-Typora :
+### Typora
 
 - 실시간 마크다운 변환(미리보기) 제공
 - 이미지 또는 표 삽입시 매우 편한 UI 제공
