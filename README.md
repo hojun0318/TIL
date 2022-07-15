@@ -18,29 +18,29 @@ Today I Learn at SSAFY
 
 ![git](https://user-images.githubusercontent.com/104968672/179149811-bf641e02-c106-4da9-89ba-4b71f1c18ab4.png)
 
-Git: 분산 버전관리 프로그램
+### Git: 분산 버전관리 프로그램
 - 버전: 컴퓨터 소프트웨어의 특정 상태
 - 관리: 어떤 일의 사무, 시설이나 물건의 유지, 개량
 - 프로그램: 컴퓨터에 실행될 때 특정 작업을 수행하는 일련의 명령어들의 모음
 
-'Git: 분산 버전관리 프로그램'
+### 'Git: 분산 버전관리 프로그램'
 - 1. 코드의 히스토리(버전)을 관리하는 도구
 - 2. 개발되어온 과정 파악 가능
 - 3. 변경 사항 비교 분석
 
-### 중앙 집중식 버전 관리 vs 분산 버전 관리(Git)
+## 중앙 집중식 버전 관리 vs 분산 버전 관리(Git)
 
-Github: Git기반의 저장소 서비스를 제공하는 서버
+### Github: Git기반의 저장소 서비스를 제공하는 서버
 
 - 1.  GitLab
 - 2. GitHub(MS)
 - 3. Bitbucket
 
-GitLab: 저장하는 서버 자체를 내 마음대로 구축할 수 있음
+### GitLab: 저장하는 서버 자체를 내 마음대로 구축할 수 있음
 
 ![CLI](https://user-images.githubusercontent.com/104968672/179149883-f7dff4a9-a9f7-4846-bf4e-942ba00f7657.png)
 
-CLI : Command Line Interface <-> GUI: Graphic User Interface : (공통) 컴퓨터한테 명령내리기
+## CLI : Command Line Interface <-> GUI: Graphic User Interface : (공통) 컴퓨터한테 명령내리기
 - CLI : 그래픽을 통해 사용자와 컴퓨터가 상호 작용하는 방식
        컴퓨터 리소스 절약이 됨(경제적)
 
@@ -63,12 +63,12 @@ GUI는 CLI에 비해 사용하기 쉽지만 단계가 많고 컴퓨터의 성능
 
 상위로 이동 후  폴더를 지우려면 r옵션 적용!
 
-절대 경로 :
+### 절대 경로 :
 
 - 루트 디렉토리부터 목적 지점까지 거치는 모든 경로를 전부 작성한 것
 - 윈도우 바탕 화면의 절대 경로 -C:/Users/ssafy/Desktop
 
-상대 경로 :
+### 상대 경로 :
 
 - 현재 작업하고 있는 디렉토리를 기준으로 계산된 상대적 위치를 작성한 것
 - 현재 작업하고 있는 디렉토리가  C:/Users일 때
@@ -89,7 +89,7 @@ GUI는 CLI에 비해 사용하기 쉽지만 단계가 많고 컴퓨터의 성능
 
 ![github](https://user-images.githubusercontent.com/104968672/179150044-10a2cf29-ac79-41a9-8159-f05fef6b337d.png)
 
-Github 문서의 시작과 끝!
+### Github 문서의 시작과 끝!
 
 - [README.md](http://readme.md/) 파일을 통해 오픈 소스의 공식 문서 작성
 - 개인 프로젝트의 소개 문서 작성
@@ -98,7 +98,7 @@ Github 문서의 시작과 끝!
 
                                                                                             = 개발문서의 시작과 끝
 
-개발 문서의 시작과 끝!
+### 개발 문서의 시작과 끝!
 
 - 대부분의 웹 에디터에서 지원(각종 블로그 사이트 등)
 - Jupyter Notebook, Notion 등
