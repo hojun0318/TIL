@@ -16,6 +16,8 @@ Today I Learn at SSAFY
 
 제일 중요한건 **꾸준한 학습**을 할 수 있는 사람인지를 보여줘야한다!
 
+![git](https://user-images.githubusercontent.com/104968672/179149811-bf641e02-c106-4da9-89ba-4b71f1c18ab4.png)
+
 Git: 분산 버전관리 프로그램
 버전: 컴퓨터 소프트웨어의 특정 상태
 관리: 어떤 일의 사무, 시설이나 물건의 유지, 개량
@@ -30,9 +32,11 @@ Git: 분산 버전관리 프로그램
 
 Github: Git기반의 저장소 서비스를 제공하는 서버
 
-1.  GitLab,	  2. GitHub(MS),   3. Bitbucket
+1.  GitLab	  2. GitHub(MS)   3. Bitbucket
 
 GitLab: 저장하는 서버 자체를 내 마음대로 구축할 수 있음
+
+![CLI](https://user-images.githubusercontent.com/104968672/179149883-f7dff4a9-a9f7-4846-bf4e-942ba00f7657.png)
 
 CLI : Command Line Interface <-> GUI: Graphic User Interface : (공통) 컴퓨터한테 명령내리기
 CLI : 그래픽을 통해 사용자와 컴퓨터가 상호 작용하는 방식
@@ -72,11 +76,15 @@ GUI는 CLI에 비해 사용하기 쉽지만 단계가 많고 컴퓨터의 성능
 - ./ : 현재 작업하고 있는 폴더
 - ../ : 현재 작업하고 있는 폴더의 부모 폴더
 
+![mark](https://user-images.githubusercontent.com/104968672/179149968-6c8f8bab-ccd7-4180-a7e3-64744dd799bd.jpg)
+
 마크다운(Markdown) :
 텍스트 기반의 가벼운 마크업(markup) 언어
 문서의 구조와 내용을 같이 쉽고 빠르고 적고자 탄생
 
 - 마크업(Markup) : 태그(tag)를 이용하여 문서의 구조를 나타내는 것
+
+![github](https://user-images.githubusercontent.com/104968672/179150044-10a2cf29-ac79-41a9-8159-f05fef6b337d.png)
 
 Github 문서의 시작과 끝!
 
@@ -152,6 +160,8 @@ string은 보여지는 부분, url은 연결할 부분
 
 ## Repository
 
+![99EB36495E381BF706](https://user-images.githubusercontent.com/104968672/179150124-0b6a7373-a4c7-4533-9933-3d57212ee477.png)
+
 특정 디렉토리를 버전 관리하는 저장소
 
 - git init 명령어로 로컬 저장소를 생성
@@ -183,6 +193,8 @@ Working Directory → git add → Staging Area → git commit → Repository
 * git push (A)   (B)  :  A는 어디로 Push할 건지 (origin), B는 (Master branch)
 
 ## Staging Area 왜?
+
+![1_diRLm1S5hkVoh5qeArND0Q](https://user-images.githubusercontent.com/104968672/179150203-9b30ea35-6df7-43d5-b8f9-4ce0d0fee9a4.png)
 
 특정 변경된 사항들만 뽑아서 남기고 싶은, commit으로 찍고 싶은애들만 올리는
 * git remote add origin {remote_repo}
