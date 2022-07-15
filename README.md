@@ -1,6 +1,8 @@
 # TIL
 Today I Learn at SSAFY
 
+![SSAFY](https://user-images.githubusercontent.com/104968672/179149515-a69da45f-a605-4eb8-8725-e98046bbbbbf.png)
+
 # TIL (Today I Learned)
 
 - 매일 내가 배운 것을 마크다운으로 정리해서 문서화하는 것
